@@ -77,5 +77,7 @@ public class railfence {
             }
         }
         System.out.println("Decrypted Text is:"+dt);
+        s.close();
     }
+    
 }

@@ -34,6 +34,7 @@ class helman {
         k1=(int)(Math.pow(B,x)%n);
         k2=(int)(Math.pow(A,y)%n);
         System.out.println("k1:"+k1+"k2:"+k2);
+        sc.close();
 
     }
     

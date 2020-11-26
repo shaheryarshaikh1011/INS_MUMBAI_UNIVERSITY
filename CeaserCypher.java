@@ -43,7 +43,7 @@ public static String decrypt(String ciphertext,int shiftkey)
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter en");
         String msg=new String();

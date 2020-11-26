@@ -71,5 +71,6 @@ public class vernam {
                 dt=dt+arr[arr1[k++]];
         }
         System.out.println("Decrypted text is:"+dt);
+        s.close();
     }
 }
